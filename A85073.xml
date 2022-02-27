@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A faithful remembrance and advice to the General Council of Officers of the armies of England, Scotland, &amp; Ireland, from divers in Cornwal and Devon, in behalf of themselves and sundry hundreds, cordial friends to the blessed cause of righteousness which God hath stated and pleaded with a stretched out arm, in these (and in the sight of all the) nations.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85073</idno>
+            <idno type="STC">Wing F282</idno>
+            <idno type="STC">Thomason E980_16</idno>
+            <idno type="STC">ESTC R207766</idno>
+            <idno type="EEBO-CITATION">99866798</idno>
+            <idno type="PROQUEST">99866798</idno>
+            <idno type="VID">168565</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85073)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168565)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 145:E980[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A faithful remembrance and advice to the General Council of Officers of the armies of England, Scotland, &amp; Ireland, from divers in Cornwal and Devon, in behalf of themselves and sundry hundreds, cordial friends to the blessed cause of righteousness which God hath stated and pleaded with a stretched out arm, in these (and in the sight of all the) nations.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for L. Chapman at the Crown in Popes-Head-Ally,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 4th"; "May 4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Cornwall  (England : County) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168565:1" rendition="simple:additions"/>
+            <p>A faithful REMEMBRANCE AND ADVICE TO The General Council of Officers OF The Armies of <hi>England, Scotland</hi> &amp; <hi>Ireland,</hi> FROM Divers in <hi>Cornwal</hi> and <hi>Devon,</hi> IN Behalf of themſelves and ſundry hun<g ref="char:EOLhyphen"/>dreds, cordial friends to the bleſſed <hi>CA<g ref="char:V">Ʋ</g>SE of RIGHTEO<g ref="char:V">Ʋ</g>SNESS</hi> WHICH GOD hath ſtated and pleaded with a ſtretched out Arm, in theſe (and in the ſight of all the) Nations.</p>
+            <p>
+               <add>May 4<hi rend="sup">th</hi>
+               </add> 
+               <hi>LONDON:</hi> Printed for <hi>L. Chapman</hi> at the Crown in Popes-Head-Ally, 1659. <add>May 4.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168565:2"/>
+            <pb n="1" facs="tcp:168565:2"/>
+            <head>A faithful <hi>Remembrance</hi> and <hi>Advice</hi> TO The General Council of Offices, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>THough the moſt High hath ſet the Bounds of our Habitations in a corner of this Nation, ſomewhat remote from you, yet have not on<g ref="char:EOLhyphen"/>ly the reports and influence of the late Affairs de<g ref="char:EOLhyphen"/>pending before you already reached us, but withal, we have hopes that the faithfulneſs of this brief word may as effectually extend it ſelf even to you. How<g ref="char:EOLhyphen"/>ever, we think our ſelves eminently concerned and called upon to give you ſome taſte of our Spirits, while we behold theſe works of the Lord, and what Deſolations he hath made in the Earth.</p>
+            <p>We, having for a long time mourned in the ſence of our own Iniquities, and of the ſore backſliding of this day, from that glorious <hi>Cauſe</hi> of the Lord, where<g ref="char:EOLhyphen"/>in, in former dayes (ſome of) you have been uſed and owned by him, as famous Inſtruments, have yet been held up by grace, in expectation that his Work ſhould be revived again, and our hearts ſhould be made glad therein.</p>
+            <p>In tracing the Lords footſteps in order hereunto, though we have been inſtructed with a ſtrong hand
+<pb n="2" facs="tcp:168565:3"/>to ceaſe from man; yet, was it ſome refreſhment to us, to ſee ſome paſſages in your <hi>Repreſentation</hi> of the ſixth of <hi>April</hi> —59. <hi>(viz.)</hi> your <hi>profeſſed indearment to the</hi> GOOD OLD CAUSE, <hi>your awakenings, and deep ſence of the great reproaches, eminent dangers, and even death at hand upon it; your bewailing your own great failings, turnings aſide, and backſlidings, and your reſolutions for better things for the future:</hi> in which mat<g ref="char:EOLhyphen"/>ters we ſhould reckon our ſelves happy, if we might miniſter any farther effectual Conviction and Aſ<g ref="char:EOLhyphen"/>ſiſtance to you: in order whereunto, we think our ſelves bound to put you farther in Remembrance,</p>
+            <p n="1">I. That while you were in a ſincere virgin-Spirit, purſuing the true and ſingle Intereſt of this <hi>Cauſe,</hi> you had conſtant experience of the marvellous Preſence and Bleſſing of the Lord on your Affairs, in Camp and Council, by Sea and Land; as alſo the cheerful concurrence of many thouſand upright-hearted ones, whoſe Prayers, Perſons, Eſtates, and all that was dear to them, were gladly engaged to ſtrengthen your hands to the uttermoſt, in thoſe amuſing Diſpenſa<g ref="char:EOLhyphen"/>tions wherein you were led, and did not ſtumble; and for a recompence, you were alſo inlarged &amp; ingaged cheerfully in ſpirit, not only to follow the Lords con<g ref="char:EOLhyphen"/>duct through any difficulties, but to give your ſelves up by Promiſes, Declarations, and Appeals, in Judg<g ref="char:EOLhyphen"/>ment and Conſcience, by which to this day you ſtand religiouſly and indiſpenſibly obliged, to follow His glorious Work, intruſted in your hands, unto its juſt iſſues, in the face of all oppoſition whatſoever.</p>
+            <p n="2">II. That while you were in the juſt &amp; direct pro<g ref="char:EOLhyphen"/>ceſs
+<pb n="3" facs="tcp:168565:3"/>of that Good Work and Cauſe of GOD, the Lords leadings, and your obſerving experiences far<g ref="char:EOLhyphen"/>ther and farther, taught you, that (ſo righteous and prevailing were the true principles thereof, commen<g ref="char:EOLhyphen"/>ding themſelves in their own evidence, as that) the reducing it to practiſe, was found to have a real in<g ref="char:EOLhyphen"/>conſiſtency with the antient conſtitutions and forms of this Nations government, which for the moſt part were accommodated to Luſt and Antichriſtian Ty<g ref="char:EOLhyphen"/>ranny over the Perſons, Eſtates and Conſciences of the People; and therefore in its progreſs (wherein it had your then cheerful concurrence) you ſaw it proved ruinous to them, &amp; exploded they were, how Ancient, Honourable and Dear ſoever they ſeemed to be, to men of low and ſelfiſh Principles.</p>
+            <p n="3">III. That ever ſince the great Revolt from theſe Principles, all the inventions and indeavors ſought out, and uſed, to eſpouſe the National Pomp and Greatneſs to the Notion of this <hi>Cauſe;</hi> What<g ref="char:EOLhyphen"/>ever Intereſts have been courted, or Inſtruments for<g ref="char:EOLhyphen"/>med to that end; they have all fallen before it with their own weight: and inſtead of attaining the aimed-at-ſettlement in the Relicts of this Glory, there hath not onely a continual blaſting befallen all your enterprizes; but by degrees hath been a very fair opportunity adminiſtred unto the Quinteſſence of all the Wiſdom, Policy and Malignity of every one of thoſe formerly-conquered Intereſts, to ſtand up again in full and equal Liberry and Authority in the Supremeſt Judicature of the Nation, to contend for Maſtery, untill even now, your ſelves found there was not ſafety and ſhelter left, no, not for your own ſelves,
+<pb n="4" facs="tcp:168565:4"/>although in the midſt of your poſſeſſed ſtrength.</p>
+            <p n="4">IV. That now again in the mighty GOD hath put into your hands one opportunity more to do ſome notable things for him; he hath again diſcovered the Foundations to the Neck, hath layed ſpoiled at your feet another promiſing piece of goodly Glory. You have moreover before you the advantage of a large taſte of the ſpirits of Men and Parties, in theſe Nations: who have abode firm to their former Prin<g ref="char:EOLhyphen"/>ciples, under all manner of diſadvantages: and on the other hand, who, under either a fawning, or courted pretenſion of compliance, have been contri<g ref="char:EOLhyphen"/>ving and preparing inſtruments of Cruelty that would have ruined it and you, for the old Hatred.</p>
+            <p>Upon theſe and the like Conſiderations that we might tender, we preſent our Advice.</p>
+            <p n="1">I. If in truth your hearts are thorough for this work of GOD, though your reviving it be in a trou<g ref="char:EOLhyphen"/>bleſome time, to you and to the poor Nation, yet ha<g ref="char:EOLhyphen"/>ving your eye to the Lord, whoſe the <hi>Cauſe</hi> is, be ye of good courage, and be aſſured that there are multi<g ref="char:EOLhyphen"/>tudes, who have been mourning in ſecret a long time, whom you will finde in a preparation of ſpirit, to joyn heart and all with you in your righteous purſu<g ref="char:EOLhyphen"/>ance of that <hi>Bleſſed Cauſe;</hi> yea rather, you may be ſure <hi>the Lord of Hoſts</hi> will be with you, while you are with him.</p>
+            <p n="2">II. That you ſpeedily claim and receive to your ſelves, as your true propriety, the light and aſſiſtance of ſuch in Council with you, as in the faithfulneſs of their Teſtimony have been laid aſide, or compelled to
+<pb n="5" facs="tcp:168565:4"/>forſake their places during the time that this ſtain hath layn upon your Glory; whom you may receive with the advantage of their having been refined by the ſharp tryals they have ſince ſuſtained; for whom there will be room and opportunity at large, by your performing a parallel Act of Faithfulneſs, namely, your ſpeedy diſmiſſion from among you of ſuch as have been an hinderance and ſnare to your faithful proceedings hitherto; of whom alſo you cannot but have much experience.</p>
+            <p n="3">III. That you will give great diligence to what you leave behinde, or lay anew in the Foundation to be laid of future Settlement: let not any carnal rea<g ref="char:EOLhyphen"/>ſonings lead you to make haſt, to fall in with any painted intereſts, ſhort of It, though they may ſeem made ready to your hand; but rather having well re<g ref="char:EOLhyphen"/>viewed and digeſted not the Name only, but the true Nature and Principles of the <hi>Cauſe</hi> you mention, and being inſtructed to truſt the Lord, invite, own and aſ<g ref="char:EOLhyphen"/>ſiſt ſuch for the eſtabliſhing the Religious and Civil Rights of this poor Nation, as have approved them<g ref="char:EOLhyphen"/>ſelves men diſingaged from any intereſt that neceſſa<g ref="char:EOLhyphen"/>rily bindes them up, and renders them incapable of carrying on the work ſpoken of, to its juſt iſſues. Men of ſuch an anointing, as may indeed conſcientiouſly proſecute the juſt ends of all thoſe Declarations, En<g ref="char:EOLhyphen"/>gagements and Appeals of yours, and of all the blood, treaſure and hopes of ours. And in ſo doing, you may expect the Lord of hoſts will help you, covering you with that ſtrength, recovering for you that glory, and recompencing you with that reward, that ſhall make and beſpeak you a Bleſſing in the Earth.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
